@@ -44,5 +44,5 @@ function removeBook(){
 
 //Función que muestra todos los libros
 function showBooks(){
-
+//Crear divs y colocarlos
 }
